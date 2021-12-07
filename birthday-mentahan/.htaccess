@@ -1,4 +1,4 @@
-
-# HTID:18887537: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
-php_value display_errors 1
-# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:18887537:
+#<Files ~ "\.js$">
+ #   order allow,deny
+  #  deny from all
+#</Files>
